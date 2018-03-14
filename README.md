@@ -5,18 +5,12 @@
 <h1 align="center">Framer Training</h1>
 <p align="center">Framer training materials for workshops and demos.</p>
 
----
-
 ## Documents
 - An [outline](https://www.getoutline.com/doc/beginner-demo-igAWeLnIrg) of a standard beginner demo.
 - A [full script](https://docs.google.com/document/d/1AZF6sJfFpvzbOq7tDSwL775T8jVoGhrdN3UH92722D4/edit) of a beginner demo.
 
----
-
 ## Photos
 - [Framer Training Photos](https://unsplash.com/collections/496057/framer-training)
-
----
 
 ## Examples
 Examples included within the repository.
@@ -30,10 +24,7 @@ Examples included within the repository.
 
 ![Image](https://cl.ly/q9KH/Frame.png)
 
----
-
 ## FAQ
-
 - Design systems
 - Can I design with real data in Framer? [Yes, see this example](https://dribbble.com/shots/4065235-Framer-SVG-BTC)
 - Can I design with input fields in Framer? [Yes, see this module](https://github.com/benjamindenboer/FramerInput)
