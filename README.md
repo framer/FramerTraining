@@ -16,10 +16,10 @@
 ## Examples
 Examples included within repository.
 
-1. Like Example
-2. Page Example
-3. Flow Example
-4. Scrolling Example
-5. Modulate Example 
+1. <strong>Like</strong> Example
+2. <strong>Page</strong> Example
+3. <strong>Flow</strong> Example
+4. <strong>Scrolling</strong> Example
+5. <strong>Modulate</strong> Example 
 
 ![Image](https://cl.ly/q9pH/Image.png)
