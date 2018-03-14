@@ -14,7 +14,7 @@
 ---
 
 ## Examples
-Examples included within repository.
+Examples included within the repository.
 
 1. <strong>Like</strong> Example
 2. <strong>Page</strong> Example
