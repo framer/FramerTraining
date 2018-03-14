@@ -193,7 +193,7 @@
                       "LINEHEIGHT:1.2",
                       "ALIGN:center",
                       "SIZE:20",
-                      "FONT:__SF-UI-Text-Medium__"
+                      "FONT:__SF-UI-Text-Regular__"
                     ]
                   },
                   "depth" : 0,
@@ -229,7 +229,7 @@
                     {
                       "length" : 4,
                       "offset" : 0,
-                      "style" : "FONT:__SF-UI-Text-Medium__"
+                      "style" : "FONT:__SF-UI-Text-Regular__"
                     }
                   ],
                   "key" : "b426s",
@@ -238,11 +238,11 @@
                 }
               ],
               "cached" : {
-                "html" : "<span data-offset-key=\"b426s-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Medium&quot;, &quot;SFProText-Medium&quot;, &quot;SFUIText-Medium&quot;, &quot;.SFUIText-Medium&quot;, sans-serif;-webkit-text-fill-color:rgba(255, 255, 255, 1.00);font-size:20px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Next<\/span><\/span>",
+                "html" : "<span data-offset-key=\"b426s-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:rgba(255, 255, 255, 1.00);font-size:20px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Next<\/span><\/span>",
                 "os" : "10_13",
                 "size" : {
                   "height" : 24,
-                  "width" : 46
+                  "width" : 45
                 },
                 "width" : 0
               },
@@ -253,7 +253,7 @@
             "targetName" : null,
             "top" : null,
             "visible" : true,
-            "width" : 46,
+            "width" : 45,
             "widthFactor" : null
           },
           {
@@ -572,7 +572,7 @@
                       "LINEHEIGHT:1.2",
                       "ALIGN:center",
                       "SIZE:20",
-                      "FONT:__SF-UI-Text-Medium__"
+                      "FONT:__SF-UI-Text-Regular__"
                     ]
                   },
                   "depth" : 0,
@@ -608,7 +608,7 @@
                     {
                       "length" : 4,
                       "offset" : 0,
-                      "style" : "FONT:__SF-UI-Text-Medium__"
+                      "style" : "FONT:__SF-UI-Text-Regular__"
                     }
                   ],
                   "key" : "b426s",
@@ -617,11 +617,11 @@
                 }
               ],
               "cached" : {
-                "html" : "<span data-offset-key=\"b426s-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Medium&quot;, &quot;SFProText-Medium&quot;, &quot;SFUIText-Medium&quot;, &quot;.SFUIText-Medium&quot;, sans-serif;-webkit-text-fill-color:rgba(255, 255, 255, 1.00);font-size:20px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Next<\/span><\/span>",
+                "html" : "<span data-offset-key=\"b426s-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:rgba(255, 255, 255, 1.00);font-size:20px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Next<\/span><\/span>",
                 "os" : "10_13",
                 "size" : {
                   "height" : 24,
-                  "width" : 46
+                  "width" : 45
                 },
                 "width" : 0
               },
@@ -632,93 +632,7 @@
             "targetName" : null,
             "top" : null,
             "visible" : true,
-            "width" : 46,
-            "widthFactor" : null
-          },
-          {
-            "__class" : "FrameNode",
-            "aspectRatioLocked" : false,
-            "blendingEnabled" : 0,
-            "blendingMode" : "normal",
-            "blur" : 12,
-            "blurEnabled" : 0,
-            "blurType" : "layer",
-            "borderBottom" : 1,
-            "borderColor" : "#222",
-            "borderEnabled" : 0,
-            "borderLeft" : 1,
-            "borderPerSide" : false,
-            "borderRight" : 1,
-            "borderStyle" : "solid",
-            "borderTop" : 1,
-            "borderWidth" : 1,
-            "bottom" : null,
-            "boxShadows" : [
-
-            ],
-            "brightness" : 100,
-            "brightnessEnabled" : 0,
-            "centerAnchorX" : 0.5,
-            "centerAnchorY" : 0.044227886056971512,
-            "children" : [
-
-            ],
-            "clip" : false,
-            "constraintsLocked" : false,
-            "contrast" : 100,
-            "contrastEnabled" : 0,
-            "deviceType" : null,
-            "exportIncludesBackground" : true,
-            "exportOptions" : [
-
-            ],
-            "fillColor" : "rgba(0, 0, 0, 0)",
-            "fillEnabled" : true,
-            "fillGradient" : {
-              "__class" : "LinearGradient",
-              "alpha" : 1,
-              "angle" : 0,
-              "end" : "rgba(0,0,0,0)",
-              "start" : "black"
-            },
-            "fillImage" : null,
-            "fillImagePixelHeight" : null,
-            "fillImagePixelWidth" : null,
-            "fillImageResize" : "fill",
-            "fillType" : "color",
-            "grayscale" : 0,
-            "grayScaleEnabled" : 0,
-            "height" : 60,
-            "heightFactor" : null,
-            "hueRotate" : 0,
-            "hueRotateEnabled" : 0,
-            "id" : "LQ4e55KQ7",
-            "intrinsicHeight" : null,
-            "intrinsicWidth" : null,
-            "invert" : 0,
-            "invertEnabled" : 0,
-            "left" : 0,
-            "locked" : false,
-            "name" : "nav",
-            "opacity" : 1,
-            "parentid" : "mwALFPMyq",
-            "radius" : 0,
-            "radiusBottomLeft" : 0,
-            "radiusBottomRight" : 0,
-            "radiusIsRelative" : false,
-            "radiusPerCorner" : false,
-            "radiusTopLeft" : 0,
-            "radiusTopRight" : 0,
-            "right" : 0,
-            "rotation" : 0,
-            "saturate" : 100,
-            "saturateEnabled" : 0,
-            "sepia" : 0,
-            "sepiaEnabled" : 0,
-            "targetName" : "nav",
-            "top" : 0,
-            "visible" : true,
-            "width" : 375,
+            "width" : 45,
             "widthFactor" : null
           },
           {
@@ -1037,7 +951,7 @@
                       "LINEHEIGHT:1.2",
                       "ALIGN:center",
                       "SIZE:20",
-                      "FONT:__SF-UI-Text-Medium__"
+                      "FONT:__SF-UI-Text-Regular__"
                     ]
                   },
                   "depth" : 0,
@@ -1073,7 +987,7 @@
                     {
                       "length" : 7,
                       "offset" : 0,
-                      "style" : "FONT:__SF-UI-Text-Medium__"
+                      "style" : "FONT:__SF-UI-Text-Regular__"
                     }
                   ],
                   "key" : "b426s",
@@ -1082,11 +996,11 @@
                 }
               ],
               "cached" : {
-                "html" : "<span data-offset-key=\"b426s-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText-Medium&quot;, &quot;SFProText-Medium&quot;, &quot;SFUIText-Medium&quot;, &quot;.SFUIText-Medium&quot;, sans-serif;-webkit-text-fill-color:rgba(255, 255, 255, 1.00);font-size:20px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Restart<\/span><\/span>",
+                "html" : "<span data-offset-key=\"b426s-0-0\" style=\"tab-size:4;font-family:&quot;.SFNSText&quot;, &quot;SFProText-Regular&quot;, &quot;SFUIText-Regular&quot;, &quot;.SFUIText&quot;, sans-serif;-webkit-text-fill-color:rgba(255, 255, 255, 1.00);font-size:20px;letter-spacing:0px;line-height:1.2\"><span data-text=\"true\">Restart<\/span><\/span>",
                 "os" : "10_13",
                 "size" : {
                   "height" : 24,
-                  "width" : 72
+                  "width" : 70
                 },
                 "width" : 0
               },
@@ -1097,7 +1011,7 @@
             "targetName" : null,
             "top" : null,
             "visible" : true,
-            "width" : 72,
+            "width" : 70,
             "widthFactor" : null
           },
           {

@@ -1,8 +1,6 @@
 flow = new FlowComponent
 flow.showNext(screenA)
 
-flow.header = nav
-
 screenA.onTap ->
 	flow.showNext(screenB)
 	
