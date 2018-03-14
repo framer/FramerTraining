@@ -23,7 +23,7 @@ Examples included within repository.
 5. <strong>SVG</strong> Example
 6. <strong>Modulate</strong> Example 
 
-![Image](https://cl.ly/q9pH/Image.png)
+![Image](https://cl.ly/q9KH/Frame.png)
 
 ---
 
