@@ -1,5 +1,9 @@
-# FramerTraining
-Framer training materials for workshops and demos.
+<div align="center">
+  <img src="https://cl.ly/q8ma/logo.png" width="30">
+</div>
+
+<h1 align="center">Framer Training</h1>
+<p align="center">Framer training materials for workshops and demos.</p>
 
 ---
 
