@@ -10,7 +10,7 @@
 - A [full script](https://docs.google.com/document/d/1AZF6sJfFpvzbOq7tDSwL775T8jVoGhrdN3UH92722D4/edit) of a beginner demo.
 
 ## Photos
-- [Framer Training Photos](https://unsplash.com/collections/496057/framer-training)
+- [Framer Training Photos](https://unsplash.com/collections/496057/framer-training) on Unsplash.
 
 ## Examples
 Examples included within the repository.
