@@ -18,8 +18,19 @@ Examples included within repository.
 
 1. <strong>Like</strong> Example
 2. <strong>Page</strong> Example
-3. <strong>Flow</strong> Example
-4. <strong>Scrolling</strong> Example
-5. <strong>Modulate</strong> Example 
+3. <strong>States</strong> Example
+4. <strong>Flow</strong> Example
+5. <strong>SVG</strong> Example
+6. <strong>Modulate</strong> Example 
 
 ![Image](https://cl.ly/q9pH/Image.png)
+
+---
+
+## FAQ
+
+- Design systems
+- Real data
+- [Inputs](https://github.com/benjamindenboer/FramerInput)
+- Modules
+- Audio
