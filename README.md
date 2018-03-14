@@ -16,7 +16,10 @@
 ## Examples
 Examples included within repository.
 
-- Like Example
-- Page Example
+1. Like Example
+2. Page Example
+3. Flow Example
+4. Scrolling Example
+5. Modulate Example 
 
 ![Image](https://cl.ly/q9pH/Image.png)
