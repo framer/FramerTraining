@@ -15,12 +15,12 @@
 ## Examples
 Examples included within the repository.
 
-1. <strong>Like</strong> Example
-2. <strong>Page</strong> Example
-3. <strong>States</strong> Example
-4. <strong>Flow</strong> Example
-5. <strong>SVG</strong> Example
-6. <strong>Modulate</strong> Example 
+1. <strong>Like</strong> Example (Beginner)
+2. <strong>Page</strong> Example (Beginner)
+3. <strong>States</strong> Example (Intermediate)
+4. <strong>Flow</strong> Example (Intermediate)
+5. <strong>SVG</strong> Example (Advanced)
+6. <strong>Modulate</strong> Example (Advanced)
 
 ![Image](https://cl.ly/q9KH/Frame.png)
 
