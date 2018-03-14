@@ -1,7 +1,7 @@
 heart.opacity = 0
 heart.scale = 0
 
-photo.onClick (event, layer) ->
+photo.onTap ->
 
 	heart.animate
 		opacity: 1.00
@@ -10,7 +10,7 @@ photo.onClick (event, layer) ->
 			time: 0.60
 			curve: Spring(damping: 0.5)
 
-	heart.onAnimationEnd (event, layer) ->
+	heart.onAnimationEnd ->
 		heart.animate
 			opacity: 0
 			scale: 0

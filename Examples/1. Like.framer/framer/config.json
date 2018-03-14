@@ -14,7 +14,7 @@
   "projectId" : "957789C4-4A74-4123-807B-18A7788228B7",
   "deviceOrientation" : 0,
   "selectedHand" : "iphone-hands-2",
-  "showBezel" : true,
+  "showBezel" : false,
   "foldedCodeRanges" : [
 
   ],
